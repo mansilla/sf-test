@@ -1,0 +1,82 @@
+$./scripts/deploy-aws.sh update
+[INFO] Updating existing deployment...
+[STEP] Checking dependencies...
+[INFO] Dependencies check completed.
+[STEP] Getting AWS information...
+[INFO] AWS Account ID: 843833040510
+[INFO] AWS Region: us-west-2
+[INFO] ECR URI: 843833040510.dkr.ecr.us-west-2.amazonaws.com/ml-api-prod
+[STEP] Building and pushing Docker image...
+[INFO] Logging in to ECR...
+
+WARNING! Your credentials are stored unencrypted in '/Users/r1m9n/.docker/config.json'.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/go/credential-store/
+
+Login Succeeded
+[INFO] Building Docker image...
+[+] Building 0.7s (18/18) FINISHED                                                                                docker:desktop-linux
+ => [internal] load build definition from Dockerfile                                                                              0.0s
+ => => transferring dockerfile: 1.44kB                                                                                            0.0s
+ => WARN: FromPlatformFlagConstDisallowed: FROM --platform flag should not use constant value "linux/amd64" (line 2)              0.0s
+ => WARN: FromPlatformFlagConstDisallowed: FROM --platform flag should not use constant value "linux/amd64" (line 19)             0.0s
+ => [internal] load metadata for docker.io/library/python:3.9-slim                                                                0.6s
+ => [internal] load .dockerignore                                                                                                 0.0s
+ => => transferring context: 2B                                                                                                   0.0s
+ => [builder 1/5] FROM docker.io/library/python:3.9-slim@sha256:5af360dcfbbd365798ee46597cb78245fe85b358baca384bdf901f6461130b10  0.0s
+ => [internal] load build context                                                                                                 0.0s
+ => => transferring context: 1.01kB                                                                                               0.0s
+ => CACHED [stage-1 2/9] RUN apt-get update && apt-get install -y     curl     && rm -rf /var/lib/apt/lists/*                     0.0s
+ => CACHED [stage-1 3/9] RUN groupadd -r appuser && useradd -r -g appuser appuser                                                 0.0s
+ => CACHED [stage-1 4/9] WORKDIR /app                                                                                             0.0s
+ => CACHED [builder 2/5] WORKDIR /app                                                                                             0.0s
+ => CACHED [builder 3/5] RUN apt-get update && apt-get install -y     gcc     g++     curl     && rm -rf /var/lib/apt/lists/*     0.0s
+ => CACHED [builder 4/5] COPY api/requirements.txt .                                                                              0.0s
+ => CACHED [builder 5/5] RUN pip install --no-cache-dir -r requirements.txt                                                       0.0s
+ => CACHED [stage-1 5/9] COPY --from=builder /usr/local/lib/python3.9/site-packages /usr/local/lib/python3.9/site-packages        0.0s
+ => CACHED [stage-1 6/9] COPY --from=builder /usr/local/bin /usr/local/bin                                                        0.0s
+ => CACHED [stage-1 7/9] COPY api/app.py .                                                                                        0.0s
+ => CACHED [stage-1 8/9] COPY model/ ./model/                                                                                     0.0s
+ => CACHED [stage-1 9/9] RUN chown -R appuser:appuser /app                                                                        0.0s
+ => exporting to image                                                                                                            0.0s
+ => => exporting layers                                                                                                           0.0s
+ => => writing image sha256:5cc4ef3987bdb83bb6971585ec80afb2afad9d2856347a4aa0314fb24704b929                                      0.0s
+ => => naming to docker.io/library/ml-api:latest                                                                                  0.0s
+
+View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/1z8s0g5dtatb2otq61et2xr61
+
+ 2 warnings found (use docker --debug to expand):
+ - FromPlatformFlagConstDisallowed: FROM --platform flag should not use constant value "linux/amd64" (line 2)
+ - FromPlatformFlagConstDisallowed: FROM --platform flag should not use constant value "linux/amd64" (line 19)
+
+What's next:
+    View a summary of image vulnerabilities and recommendations → docker scout quickview
+[INFO] Pushing image to ECR...
+The push refers to repository [843833040510.dkr.ecr.us-west-2.amazonaws.com/ml-api-prod]
+76a7214579c1: Layer already exists
+885c899f3229: Layer already exists
+90aacf810a65: Layer already exists
+cd043bef008c: Layer already exists
+27ff87017c4e: Layer already exists
+05ef755e86ed: Layer already exists
+b1972d7a95ae: Layer already exists
+eca7feb48a4d: Layer already exists
+066418b3f856: Layer already exists
+a72fb8065c60: Layer already exists
+fb1a3962b6aa: Layer already exists
+1d46119d249f: Layer already exists
+latest: digest: sha256:a44f6d77eba53cd6a5cbbc8e0105d9835fde22cd2be768e006b3ad7640fbe5b1 size: 2835
+[INFO] Image pushed to ECR: 843833040510.dkr.ecr.us-west-2.amazonaws.com/ml-api-prod:latest
+[STEP] Updating ECS service...
+[INFO] ECS service update initiated.
+[STEP] Waiting for deployment to complete...
+[INFO] Waiting for service to stabilize...
+[INFO] Deployment completed successfully!
+[STEP] Getting service information...
+[INFO] API URL: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com
+[INFO] Health check: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com/health
+[INFO] API docs: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com/docs
+[STEP] Running health check...
+[INFO] ✅ Health check passed!
+[INFO] API is ready at: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com
+[INFO] 🎉 Update completed successfully!

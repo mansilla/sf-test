@@ -1,0 +1,588 @@
+validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.402000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:55.403000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.403000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:57550 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.405000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:23234 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.408000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.408000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:55.410000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.411000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.411000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:55.413000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.588000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.588000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:55.590000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.800000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.800000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:55.801000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.801000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:55.802000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:35404 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.804000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.807000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.807000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:55.807000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.807000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:55.808000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.809000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:55.809000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.809000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:55.809000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.809000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:55.809000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.810000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:35404 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.811000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.811000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:55.811000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:42090 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.811000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:23234 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.811000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.811000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:55.812000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.812000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.812000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:55.813000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.815000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:57550 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.815000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.815000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:55.818000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.819000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:55.871000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:55.871000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:55.873000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.141000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.141000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.141000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.141000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:56.143000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:23234 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.143000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.160000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.160000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:56.162000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.163000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.163000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:56.163000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.163000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.163000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.163000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:56.164000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.164000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:56.164000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.164000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:56.165000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:35404 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.166000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.166000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.166000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.166000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.166000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:56.167000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:42090 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.167000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:57550 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.168000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.168000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:56.168000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.169000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:44620 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.173000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.174000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.178000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.178000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:56.181000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.462000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.462000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:56.464000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:57550 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.464000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.464000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:56.464000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.464000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:56.466000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.466000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.503000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.503000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.503000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.503000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:56.504000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.504000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.504000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.504000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:56.505000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:23234 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.505000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.505000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.505000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:56.506000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:42090 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.506000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.506000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:56.507000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.508000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:35404 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.508000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.508000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:56.508000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.510000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:57550 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.511000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.511000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:56.512000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.512000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:56.515000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.516000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.732000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.732000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:56.733000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.733000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.733000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.733000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:56.735000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:23234 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.735000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.735000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.775000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.776000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:56.778000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.778000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.779000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:56.781000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.781000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.781000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:35404 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.781000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.781000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:56.782000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.782000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:56.783000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.783000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00   warnings.warn(
+2025-10-19T20:11:56.783000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.783000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:56.784000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:42090 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.784000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.784000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:56.784000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.785000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.786000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:23234 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.786000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:57550 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.786000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:56.786000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:56.789000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:56.791000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.002000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.002000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.003000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.003000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.005000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.006000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.041000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.041000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:57.042000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.042000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.043000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:35404 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.044000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.050000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.050000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d   warnings.warn(
+2025-10-19T20:11:57.052000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:57550 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.056000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.056000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.056000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.056000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.058000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.059000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.062000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.062000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.070000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.070000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.072000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.073000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.267000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.267000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.267000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.267000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.269000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.270000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.297000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.297000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.299000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.306000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.306000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.308000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.315000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.315000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.316000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.316000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.318000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.318000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.318000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.318000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.321000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.326000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.326000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.329000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.528000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.528000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.529000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.529000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.531000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.531000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.550000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.550000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.552000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.556000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.556000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.559000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.562000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.562000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.564000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.569000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.569000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.571000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.577000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.577000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.579000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:9718 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.791000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.791000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.792000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.792000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.794000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.794000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.801000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.801000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.804000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.826000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.826000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.827000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.827000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815   warnings.warn(
+2025-10-19T20:11:57.829000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.830000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60456 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.831000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.831000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:57.834000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:57.834000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:57.834000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:57.836000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:58.051000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:58.051000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:58.054000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:58.055000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:58.055000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:58.057000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:34168 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:58.082000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:58.082000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1   warnings.warn(
+2025-10-19T20:11:58.082000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:58.082000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:58.084000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:52804 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:58.085000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5154 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:58.086000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f /usr/local/lib/python3.9/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+2025-10-19T20:11:58.086000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f   warnings.warn(
+2025-10-19T20:11:58.088000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:50780 - "POST /predict HTTP/1.1" 200 OK
+2025-10-19T20:11:58.420000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:9192 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:11:58.420000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:5104 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:11:58.569000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:33860 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:11:58.570000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:35646 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:11:58.570000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:8474 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:07.327000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     127.0.0.1:51534 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:08.762000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:13464 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:08.785000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:10702 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:09.789000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     127.0.0.1:46614 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:13.781000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     127.0.0.1:60968 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:15.633000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:48562 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:16.569000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:41362 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:17.313000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:58118 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:18.207000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:33136 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:27.216000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:51502 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.343000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:39814 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.447000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:27600 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.448000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:3532 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.448000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:23650 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.458000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:46452 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.580000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:31244 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.581000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:15564 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:28.581000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:15908 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:32.163000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Shutting down
+2025-10-19T20:12:32.264000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Waiting for application shutdown.
+2025-10-19T20:12:32.264000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Application shutdown complete.
+2025-10-19T20:12:32.264000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Finished server process [14]
+2025-10-19T20:12:32.534000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Shutting down
+2025-10-19T20:12:32.635000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Waiting for application shutdown.
+2025-10-19T20:12:32.635000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Application shutdown complete.
+2025-10-19T20:12:32.636000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Finished server process [15]
+2025-10-19T20:12:32.941000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Shutting down
+2025-10-19T20:12:33.042000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Waiting for application shutdown.
+2025-10-19T20:12:33.044000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Application shutdown complete.
+2025-10-19T20:12:33.044000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Finished server process [16]
+2025-10-19T20:12:33.405000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Shutting down
+2025-10-19T20:12:33.506000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Waiting for application shutdown.
+2025-10-19T20:12:33.506000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Application shutdown complete.
+2025-10-19T20:12:33.506000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Finished server process [17]
+2025-10-19T20:12:33.771000+00:00 ecs/ml-api-prod/03630000af72451da21fd8f48cf092ca INFO:     Stopping parent process [1]
+2025-10-19T20:12:36.649000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Shutting down
+2025-10-19T20:12:36.749000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:36.750000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Application shutdown complete.
+2025-10-19T20:12:36.750000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Finished server process [15]
+2025-10-19T20:12:37.096000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Shutting down
+2025-10-19T20:12:37.200000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:37.202000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Application shutdown complete.
+2025-10-19T20:12:37.203000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Finished server process [16]
+2025-10-19T20:12:37.600000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Shutting down
+2025-10-19T20:12:37.701000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:37.702000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Application shutdown complete.
+2025-10-19T20:12:37.702000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Finished server process [17]
+2025-10-19T20:12:38.054000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Shutting down
+2025-10-19T20:12:38.154000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:38.154000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Application shutdown complete.
+2025-10-19T20:12:38.155000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Finished server process [18]
+2025-10-19T20:12:38.470000+00:00 ecs/ml-api-prod/a83c58bb9cd14964bf2ff620513a981e INFO:     Stopping parent process [1]
+2025-10-19T20:12:38.766000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Shutting down
+2025-10-19T20:12:38.773000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:32416 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:38.796000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:56136 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:38.867000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Waiting for application shutdown.
+2025-10-19T20:12:38.867000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Application shutdown complete.
+2025-10-19T20:12:38.867000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Finished server process [18]
+2025-10-19T20:12:39.210000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Shutting down
+2025-10-19T20:12:39.253000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Shutting down
+2025-10-19T20:12:39.311000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Waiting for application shutdown.
+2025-10-19T20:12:39.311000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Application shutdown complete.
+2025-10-19T20:12:39.311000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Finished server process [19]
+2025-10-19T20:12:39.354000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:39.354000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Application shutdown complete.
+2025-10-19T20:12:39.354000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Finished server process [15]
+2025-10-19T20:12:39.567000+00:00 ecs/ml-api-prod/e30ed45b12e140138635c64d5c2eaf42 INFO:     Stopping parent process [1]
+2025-10-19T20:12:39.656000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Shutting down
+2025-10-19T20:12:39.757000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:39.757000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Application shutdown complete.
+2025-10-19T20:12:39.758000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Finished server process [16]
+2025-10-19T20:12:40.221000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Shutting down
+2025-10-19T20:12:40.322000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:40.323000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Application shutdown complete.
+2025-10-19T20:12:40.323000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Finished server process [17]
+2025-10-19T20:12:40.686000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Shutting down
+2025-10-19T20:12:40.787000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Waiting for application shutdown.
+2025-10-19T20:12:40.787000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Application shutdown complete.
+2025-10-19T20:12:40.787000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Finished server process [18]
+2025-10-19T20:12:41.062000+00:00 ecs/ml-api-prod/682abe63d9244e208c3c04b6c89a278e INFO:     Stopping parent process [1]
+2025-10-19T20:12:45.634000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:34318 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:46.582000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:45980 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:47.314000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:42490 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:48.208000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:44258 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:57.217000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:45934 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:58.478000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:7826 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:58.478000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:21192 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:58.479000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:16996 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:58.590000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:11084 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:58.591000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:26594 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:12:58.591000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:22412 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:08.784000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:19852 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:08.807000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:40464 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:15.632000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:57530 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:16.576000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:47132 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:17.311000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:40828 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:18.209000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:45796 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:28.492000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:4880 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:28.621000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:36630 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:28.621000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:47414 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:28.622000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:60550 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:38.795000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:40716 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:38.814000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:8732 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:45.633000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:43550 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:46.567000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:33444 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:47.312000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:56618 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:48.210000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:43092 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:57.232000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:49326 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.397000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:53620 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.506000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:44164 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.520000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:27476 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.520000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:28216 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.520000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:61794 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.651000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:62296 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.652000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:32012 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:13:58.652000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:1438 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:08.806000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:44846 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:08.825000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:54884 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:15.632000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:48356 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:16.564000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:52542 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:17.312000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:58702 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:18.210000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:38964 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:27.217000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:44366 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:28.547000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:40490 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:28.548000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:39354 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:28.657000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:22288 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:28.657000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:26400 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:28.657000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:33400 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:38.817000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:26328 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:38.836000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:6844 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:45.635000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:36210 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:46.569000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:55224 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:47.313000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:48552 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:48.211000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:42938 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:57.231000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:36810 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.419000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:23384 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.532000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:62598 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.572000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:64170 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.572000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:63064 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.573000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:46958 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.681000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:14092 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.681000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:63176 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:14:58.681000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:39516 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:08.829000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:21712 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:08.842000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:41116 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:15.631000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:47220 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:16.573000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:38066 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:17.311000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:52682 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:18.211000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:52034 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:28.603000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:27016 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:28.603000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:42982 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:28.711000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:3212 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:28.712000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:14278 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:28.712000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:11570 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:38.835000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:20096 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:38.853000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:7390 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:45.635000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:34286 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:46.568000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:56836 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:47.312000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:33854 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:48.208000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:53406 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:57.217000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:53436 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:57.965000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:55466 - "GET /metrics HTTP/1.1" 200 OK
+2025-10-19T20:15:58.460000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:64492 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:58.570000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:1430 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:58.633000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:55474 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:58.634000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:21014 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:58.634000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:54082 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:58.742000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:6852 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:58.742000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:52490 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:15:58.742000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:34042 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:08.847000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:6324 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:08.862000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:61492 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:15.639000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:50032 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:16.568000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:33064 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:17.313000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:46520 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:18.209000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:55324 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:28.656000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:20362 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:28.657000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:29470 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:28.773000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:54370 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:28.773000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:14148 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:28.773000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:8068 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:38.859000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:11052 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:38.871000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:35450 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:40.017000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:35466 - "GET / HTTP/1.1" 200 OK
+2025-10-19T20:16:45.633000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:48662 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:46.570000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:43344 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:47.312000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:42810 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:48.209000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:57514 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:57.214000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:32850 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.484000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:2294 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.598000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:23126 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.661000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:26360 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.661000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:18698 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.662000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:16636 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.799000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:23994 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.799000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:40564 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:16:58.800000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:42994 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:08.861000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:36834 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:08.882000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:27552 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:15.630000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:48454 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:16.567000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:52882 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:17.313000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:55080 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:18.207000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:45072 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:28.687000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:21566 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:28.688000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:38620 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:28.815000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:7374 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:28.816000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:40656 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:28.816000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:63530 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:38.862000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:38218 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:38.893000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:7724 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:45.684000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:48692 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:46.567000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:45988 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:47.315000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:34772 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:48.210000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:57176 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:57.217000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:36620 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.523000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:45226 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.624000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:8108 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.697000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:8560 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.697000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:11294 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.697000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:5998 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.833000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:32028 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.833000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:64438 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:17:58.834000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:1198 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:08.873000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:63752 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:08.902000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:6508 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:15.636000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:40460 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:16.566000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:45140 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:17.310000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:41132 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:18.214000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:57392 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:27.216000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:44688 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:28.728000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:32390 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:28.728000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:61108 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:28.728000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:33564 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:28.863000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:48174 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:28.864000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:60256 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:28.864000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:17792 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:38.884000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:10584 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:38.913000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:48372 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:45.632000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:43740 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:46.564000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:54548 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:47.312000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:42202 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:48.211000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:39774 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:58.744000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:45766 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:58.894000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:51596 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:58.895000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:26796 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:18:58.895000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:3788 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:08.889000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:56902 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:08.922000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:28250 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:15.633000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:53924 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:16.567000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:39786 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:17.308000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:60066 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:18.210000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:40794 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:27.217000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:45196 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.580000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:60364 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.668000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:10762 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.774000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:7484 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.774000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:6502 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.774000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:17882 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.902000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:47938 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.903000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:49220 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:28.903000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:11358 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:38.899000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:23866 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:38.933000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:40768 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:44.600000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:13902 - "GET /docs HTTP/1.1" 200 OK
+2025-10-19T20:19:44.910000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:5626 - "GET /openapi.json HTTP/1.1" 200 OK
+2025-10-19T20:19:45.630000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:57026 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:46.569000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:34556 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:47.314000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:58086 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:48.209000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:54016 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:58.784000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:3544 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:58.784000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:43374 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:58.918000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:61810 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:58.919000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:63412 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:19:58.919000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:64234 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:08.910000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:30888 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:08.942000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:61496 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:15.635000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:48398 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:16.567000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:57822 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:17.311000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:38780 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:18.206000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:58764 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:27.217000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:39476 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.621000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:22706 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.702000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:29208 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.814000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:2146 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.814000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:37844 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.814000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:50934 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.949000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:7478 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.949000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:41240 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:28.949000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:46790 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:38.917000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:38714 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:38.953000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:3510 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:45.635000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:50668 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:46.568000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:55794 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:47.312000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:57158 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:48.210000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:47144 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:57.218000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     127.0.0.1:60640 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.641000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.1.225:37080 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.722000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     10.0.0.34:7724 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.815000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.1.225:2438 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.815000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.1.225:17942 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.816000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:28236 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.979000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:61226 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.980000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:35480 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:20:58.980000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:25106 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:08.927000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:42734 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:08.964000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:9652 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:15.639000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:60432 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:16.568000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     127.0.0.1:56490 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:17.329000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     127.0.0.1:34226 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:18.207000+00:00 ecs/ml-api-prod/4748c89d4a6f45f1b379490963a8e815 INFO:     127.0.0.1:36178 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:28.840000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.1.225:9010 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:28.998000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     10.0.0.34:1064 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:28.999000+00:00 ecs/ml-api-prod/cebbde968cd64598bfcfa2dfbd46293f INFO:     10.0.0.34:53620 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:28.999000+00:00 ecs/ml-api-prod/cf5dd369173c4a25ba28d0e57813b53d INFO:     10.0.0.34:30094 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:38.938000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.1.225:15070 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:38.975000+00:00 ecs/ml-api-prod/c630194740ac4c8685766f15cff0be00 INFO:     10.0.0.34:19912 - "GET /health HTTP/1.1" 200 OK
+2025-10-19T20:21:45.635000+00:00 ecs/ml-api-prod/b9c883d219074d94bfb7f4f8dfa5e4b1 INFO:     127.0.0.1:35030 - "GET /health HTTP/1.1" 20

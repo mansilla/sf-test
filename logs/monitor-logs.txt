@@ -1,0 +1,26 @@
+[INFO] Generating monitoring report...
+==========================================
+ML API Monitoring Report
+==========================================
+Timestamp: Sun Oct 19 14:10:47 CST 2025
+Region: us-west-2
+Project: ml-api-prod
+==========================================
+[INFO] Getting service information...
+[INFO] API URL: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com
+[INFO] Health check: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com/health
+[INFO] API docs: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com/docs
+==========================================
+[INFO] Checking API health...
+[INFO] ✅ API is healthy
+Status: ✅ HEALTHY
+==========================================
+[INFO] Fetching ECS service metrics...
+[METRIC] Running tasks: 5
+[METRIC] Desired tasks: 5
+[METRIC] CPU utilization: 2.590682722528775%
+[METRIC] Memory utilization: 18.29861111111111%
+[INFO] Fetching ALB metrics...
+[METRIC] Request count (last 5 min): None
+[METRIC] Average response time: Nones
+==========================================

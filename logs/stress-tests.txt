@@ -1,0 +1,23 @@
+[INFO] Getting API URL...
+[INFO] API URL: http://ml-api-prod-429710726.us-west-2.elb.amazonaws.com
+[INFO] Running health check...
+[INFO] ✅ API is healthy
+[INFO] Starting stress test...
+[INFO] Target: 300 requests/second for 60 seconds
+[INFO] Concurrent users: 12
+[INFO] Running stress test...
+[INFO] Processing results...
+==========================================
+STRESS TEST RESULTS
+==========================================
+Test Duration: 60 seconds
+Target RPS: 300
+Actual RPS: 43.30
+Total Requests: 2598
+Successful Requests: 2598
+Failed Requests: 0
+Success Rate: 100.00%
+Average Response Time: .2013s
+==========================================
+[INFO] ✅ Excellent response time (< 1s)
+[INFO] ✅ Excellent success rate (>= 95%)
